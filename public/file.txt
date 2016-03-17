@@ -1,0 +1,1 @@
+(?P<controller>[a-z-]+)/(?P<action>[a-z-]+)
