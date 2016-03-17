@@ -17,10 +17,4 @@ class Router {
         print_r($this->routes_table);
     }
 
-    public function matchUrl($url){
-
-
-    }
-
-
 }
